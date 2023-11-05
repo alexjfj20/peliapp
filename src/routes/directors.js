@@ -9,3 +9,4 @@ directorsRouter.route('/')
     .get(getAll)
 
 module.exports = directorsRouter;
+
